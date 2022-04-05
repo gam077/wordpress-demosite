@@ -7,5 +7,5 @@ The website is a demosite with blog option on the home page.
 The website has both company and blog options.
 The site has sidebar for post details and advert as required.
 And can be customise to developer needs.
-The website has functional blog and contact form, on the contact page. 
+The website has functional blog. There is contact form, on the contact page. 
 The live website address is at: https://coffeeproject232.000webhostapp.com
